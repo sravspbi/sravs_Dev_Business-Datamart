@@ -1,0 +1,4 @@
+my pbireport "july26th" networkpath
+
+
+\\SRAVANTHI\Users\gajam\OneDrive\Desktop\GENERAL FILES FOR PRACTICE\PBI_Practice\VINAYTECH_BUSINESS_PAYMENT_DETAILS_DATAMODEL_DATASET.xlsx
